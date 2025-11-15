@@ -24,42 +24,42 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 ## COMMAND AND OUTPUT
-![alt text](<../ex08 images/Screenshot 2025-11-15 210433.png>)
-![alt text](<../ex08 images/Screenshot 2025-11-15 211905.png>)
+![output](<../ex08 images/Screenshot 2025-11-15 210433.png>)
+![output](<../ex08 images/Screenshot 2025-11-15 211905.png>)
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-![alt text](<../ex08 images/Screenshot 2025-11-15 211928.png>)
+![output](<../ex08 images/Screenshot 2025-11-15 211928.png>)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-![alt text](<../ex08 images/Screenshot 2025-11-15 212020.png>)
+![output](<../ex08 images/Screenshot 2025-11-15 212020.png>)
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-![alt text](<../ex08 images/Screenshot 2025-11-15 212200.png>)
+![output](<../ex08 images/Screenshot 2025-11-15 212200.png>)
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-![alt text](<../ex08 images/Screenshot 2025-11-15 212308.png>)
+![output](<../ex08 images/Screenshot 2025-11-15 212308.png>)
 
 Remove the file hello1.txt,List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-![alt text](<../ex08 images/Screenshot 2025-11-15 212413.png>)
+![output](<../ex08 images/Screenshot 2025-11-15 212413.png>)
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-![alt text](<../ex08 images/Screenshot 2025-11-15 212659.png>)
+![output](<../ex08 images/Screenshot 2025-11-15 212659.png>)
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
-![alt text](<../ex08 images/Screenshot 2025-11-15 212745.png>)
+![output](<../ex08 images/Screenshot 2025-11-15 212745.png>)
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
