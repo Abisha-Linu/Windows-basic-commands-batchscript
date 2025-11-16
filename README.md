@@ -24,8 +24,8 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 ## COMMAND AND OUTPUT
-![output](<../ex08 images/Screenshot 2025-11-15 210433.png>)
-![output](<../ex08 images/Screenshot 2025-11-15 211905.png>)
+![output](images/1.png)
+
 
 Remove the directory "my-folder"
 
