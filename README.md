@@ -25,41 +25,41 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 ## COMMAND AND OUTPUT
 ![output](images/1.png)
-
+![output](images/1.2.png)
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-![output](<../ex08 images/Screenshot 2025-11-15 211928.png>)
+![output](images/2.png)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-![output](<../ex08 images/Screenshot 2025-11-15 212020.png>)
+![output](images/3.png)
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-![output](<../ex08 images/Screenshot 2025-11-15 212200.png>)
+![output](images/4.png)
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-![output](<../ex08 images/Screenshot 2025-11-15 212308.png>)
+![output](images/5.png)
 
 Remove the file hello1.txt,List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-![output](<../ex08 images/Screenshot 2025-11-15 212413.png>)
+![output](images/6.png)
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-![output](<../ex08 images/Screenshot 2025-11-15 212659.png>)
+![output](images/7.png)
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
-![output](<../ex08 images/Screenshot 2025-11-15 212745.png>)
+![output](images/8.png)
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
@@ -68,7 +68,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
-![alt text](<../ex08 images/Screenshot 2025-11-15 214304.png>)
+![alt text](images/9.png)
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -82,7 +82,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
-![alt text](<../ex08 images/Screenshot 2025-11-15 214728.png>)
+![alt text](images/10.png)
 
 
 
@@ -92,8 +92,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
-![alt text](<../ex08 images/Screenshot 2025-11-15 214908.png>)
-
+![alt text](images/11.png)
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -105,8 +104,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-![alt text](<../ex08 images/Screenshot 2025-11-15 215220.png>)
-
+![alt text](images/12.png)
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
 Create a File – Creates a file named newfile.txt with the content This is a new file
@@ -116,7 +114,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-![alt text](<../ex08 images/Screenshot 2025-11-15 215404.png>)
+![alt text](images/13.png)
 
 # RESULT:
 The commands/batch files are executed successfully.
